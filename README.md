@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer currently operating out of <b>Cincinnati</b> 」
+    「 I am a full stack engineer, senior QA, and network/system administrator currently operating out of <b>Cincinnati</b> 」
     <br>
     <br>
   </samp>
