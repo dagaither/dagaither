@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack developer and IT support engineer currently operating out of <b>Cincinnati</b> 」
+    「 I am a full stack developer and IT engineer currently operating out of <b>Cincinnati</b> 」
     <br>
     <br>
   </samp>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy full stack development and system administration<br/><br/>
+ ✌️ &emsp; Enjoy full stack development, network engineering, and system administration<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: gaither@protonmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/dagaither/dagaither/issues)
@@ -91,13 +91,12 @@ Here are some ideas to get you started:
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Reactstrap](https://img.shields.io/badge/Reactstrap-2E7EEA?style=for-the-badge&logo=reactstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -108,6 +107,15 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br/>
+
+## Network and System Administration
+![Cisco](https://img.shields.io/badge/Cisco-34abeb?style=for-the-badge&logo=cisco&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-eb6434?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-ffffff?style=for-the-badge&logo=macos&logoColor=black)
+![Windows](https://img.shields.io/badge/windows-34b7eb?style=for-the-badge&logo=windows&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-3462eb?style=for-the-badge&logo=jira&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-db7b3b?style=for-the-badge&logo=amazon&logoColor=white)
 <br/>
 
 ## Top Open Source -
