@@ -116,8 +116,11 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-eb6434?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-ffffff?style=for-the-badge&logo=macos&logoColor=black)
 ![Windows](https://img.shields.io/badge/windows-34b7eb?style=for-the-badge&logo=windows&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-3462eb?style=for-the-badge&logo=jira&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-db7b3b?style=for-the-badge&logo=amazon&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-305ed1?style=for-the-badge&logo=docker&logoColor=white)
+![VMWare](https://img.shields.io/badge/VMWare-2886c9?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0e2e54?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-3462eb?style=for-the-badge&logo=jira&logoColor=white)
 <br/>
 
 ## Top Open Source -
