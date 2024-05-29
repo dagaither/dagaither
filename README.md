@@ -32,8 +32,9 @@ Here are some ideas to get you started:
   <img align="right" src="https://komarev.com/ghpvc/?username=dagaither&label=Visitors&color=brightgreen" alt="Profile visitor" />
 </a>
 
-
+<!--
 [![wakatime](https://wakatime.com/badge/user/6cdb55cb-e9cf-4fca-9a72-357bd3d1fdca.svg)](https://wakatime.com/@6cdb55cb-e9cf-4fca-9a72-357bd3d1fdca)
+-->
 
 
 <!-- Intro  -->
