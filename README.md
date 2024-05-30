@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   
  ✌️ &emsp; Enjoy: full stack development and system administration<br/><br/>
  ❤️ &emsp; Love: writing code and learning new features<br/><br/>
-🌱 &emsp; Currently Working On: my <a href="https://plantfitpro.duckdns.com">Plant Fit Pro</a> webapp<br/><br/>
+🌱 &emsp; Currently Working On: my <a href="https://plantfitpro.duckdns.org">Plant Fit Pro</a> webapp<br/><br/>
  📧 &emsp; Reach me anytime: davidallengaither@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/dagaither/dagaither/issues)
 
